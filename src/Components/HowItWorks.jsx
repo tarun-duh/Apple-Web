@@ -76,7 +76,7 @@ const HowItWorks = () => {
             </p>
             <p className="hiw-text g_fadeIn mt-4">
               Mobile{" "}
-              <span className="text-white">Game will lokk so immersive</span>,
+              <span className="text-white">Game will look so immersive</span>,
               with incredibly detailed environments and characters.
             </p>
           </div>
